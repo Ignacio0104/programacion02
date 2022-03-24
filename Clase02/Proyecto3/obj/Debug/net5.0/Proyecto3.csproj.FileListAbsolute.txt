@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\bin\Debug\net5.0\Proyecto3.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\bin\Debug\net5.0\Proyecto3.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\bin\Debug\net5.0\Proyecto3.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\bin\Debug\net5.0\Proyecto3.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\bin\Debug\net5.0\Proyecto3.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\bin\Debug\net5.0\Proyecto3.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\obj\Debug\net5.0\Proyecto3.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\obj\Debug\net5.0\Proyecto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\obj\Debug\net5.0\Proyecto3.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\obj\Debug\net5.0\Proyecto3.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\obj\Debug\net5.0\Proyecto3.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\obj\Debug\net5.0\Proyecto3.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\obj\Debug\net5.0\refint\Proyecto3.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\obj\Debug\net5.0\Proyecto3.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\obj\Debug\net5.0\Proyecto3.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase02\Proyecto3\obj\Debug\net5.0\ref\Proyecto3.dll

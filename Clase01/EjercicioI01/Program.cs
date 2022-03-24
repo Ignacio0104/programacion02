@@ -6,16 +6,16 @@ namespace EjercicioI01
     {
         static void Main(string[] args)
         {
-            double mayor = int.MinValue;
-            double menor = int.MaxValue; 
+            int mayor = int.MinValue;
+            int menor = int.MaxValue; 
             double acumulador = 0;
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine("Ingrese un numero");
                 string numeroString = Console.ReadLine();
-                double numeroInt;
+                int numeroInt;
 
-                while (!double.TryParse(numeroString,out numeroInt))
+                while (!int.TryParse(numeroString,out numeroInt))
                 {
                     Console.WriteLine("Error, ingrese un número");
                     numeroString = Console.ReadLine();
@@ -24,9 +24,7 @@ namespace EjercicioI01
                 if (numeroInt > mayor)
                 {
                     mayor = numeroInt;
-                }
-
-                if(numeroInt < menor)
+                } else if(numeroInt < menor)
                 {
                     menor= numeroInt;
                 }
@@ -34,9 +32,9 @@ namespace EjercicioI01
                 acumulador += numeroInt;
             }
 
-            double promedio = acumulador / 5;
+            double promedio = (float)acumulador / 5;
 
-            Console.WriteLine("El numero mas grande fue {0}. El numero mas chico fue {1} y el promedio es {2}",mayor,menor,promedio);
+            Console.WriteLine("El numero mas grande fue {0}. El numero mas chico fue {1} y el promedio es {2:#.##}",mayor,menor,promedio);
         }
     }
 }

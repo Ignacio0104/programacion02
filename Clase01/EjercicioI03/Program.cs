@@ -11,14 +11,14 @@ namespace EjercicioI03
             string userInput;
 
             Console.WriteLine("Desea comenzar? S (si) o N (no)");
-            userInput = Console.ReadLine();
+            userInput = Console.ReadLine().ToLower();
 
-            while (userInput != "S" && userInput != "s" && userInput != "N" && userInput != "n")
+            while (userInput != "s" && userInput != "n")
             {
                 Console.WriteLine("Favor ingresar una de las opciones. S (si) o N (no)");
-                userInput = Console.ReadLine();
+                userInput = Console.ReadLine().ToLower();
             }
-            if (userInput == "S" || userInput == "s")
+            if (userInput == "s")
             {
                 continuar = true;
             }
@@ -30,17 +30,17 @@ namespace EjercicioI03
             while (continuar)
             {
                 Console.WriteLine("Ingrese un numero");
-                userInput = Console.ReadLine();
+                userInput = Console.ReadLine().ToLower();
 
-                while (!int.TryParse(userInput, out numeroInt))
+                while (!int.TryParse(userInput, out numeroInt) || numeroInt < 1)
                 {
                     Console.WriteLine("Error, ingrese un numero valido o presione N para salir");
-                    userInput = Console.ReadLine();
-                    if (userInput == "S" || userInput == "s")
+                    userInput = Console.ReadLine().ToLower();
+                    if (userInput == "s")
                     {
                         continuar = true;
                     }
-                    else if (userInput == "N" || userInput == "n")
+                    else if (userInput == "n")
                     {
                         continuar = false;
                         Console.WriteLine("Cerrando sistema...");
@@ -70,18 +70,18 @@ namespace EjercicioI03
                 }
 
                 Console.WriteLine("Desea continuar? S (si) o N (no)");
-                userInput = Console.ReadLine();
+                userInput = Console.ReadLine().ToLower();
 
-                while (userInput != "S" && userInput != "s" && userInput != "N" && userInput != "n")
+                while (userInput != "s" && userInput != "n")
                 {
                     Console.WriteLine("Favor ingresar una de las opciones. S (si) o N (no)");
-                    userInput = Console.ReadLine();
+                    userInput = Console.ReadLine().ToLower();
                 }
-                if (userInput == "S" || userInput == "s")
+                if (userInput == "s")
                 {
                     continuar = true;
                 }
-                else if (userInput == "N" || userInput == "n")
+                else if (userInput == "n")
                 {
                     continuar = false;
                     Console.WriteLine("Cerrando sistema...");

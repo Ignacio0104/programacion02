@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\bin\Debug\net5.0\EjercicioI05.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\bin\Debug\net5.0\EjercicioI05.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\bin\Debug\net5.0\EjercicioI05.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\bin\Debug\net5.0\EjercicioI05.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\bin\Debug\net5.0\EjercicioI05.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\bin\Debug\net5.0\EjercicioI05.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\obj\Debug\net5.0\EjercicioI05.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\obj\Debug\net5.0\EjercicioI05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\obj\Debug\net5.0\EjercicioI05.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\obj\Debug\net5.0\EjercicioI05.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\obj\Debug\net5.0\EjercicioI05.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\obj\Debug\net5.0\EjercicioI05.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\obj\Debug\net5.0\refint\EjercicioI05.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\obj\Debug\net5.0\EjercicioI05.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\obj\Debug\net5.0\EjercicioI05.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI05\obj\Debug\net5.0\ref\EjercicioI05.dll
