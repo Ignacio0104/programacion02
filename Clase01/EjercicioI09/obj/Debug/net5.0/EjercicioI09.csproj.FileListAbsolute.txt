@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\bin\Debug\net5.0\EjercicioI09.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\bin\Debug\net5.0\EjercicioI09.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\bin\Debug\net5.0\EjercicioI09.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\bin\Debug\net5.0\EjercicioI09.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\bin\Debug\net5.0\EjercicioI09.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\bin\Debug\net5.0\EjercicioI09.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\obj\Debug\net5.0\EjercicioI09.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\obj\Debug\net5.0\EjercicioI09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\obj\Debug\net5.0\EjercicioI09.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\obj\Debug\net5.0\EjercicioI09.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\obj\Debug\net5.0\EjercicioI09.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\obj\Debug\net5.0\EjercicioI09.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\obj\Debug\net5.0\refint\EjercicioI09.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\obj\Debug\net5.0\EjercicioI09.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\obj\Debug\net5.0\EjercicioI09.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase01\EjercicioI09\obj\Debug\net5.0\ref\EjercicioI09.dll
