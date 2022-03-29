@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\bin\Debug\net5.0\Clase03.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\bin\Debug\net5.0\Clase03.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\bin\Debug\net5.0\Clase03.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\bin\Debug\net5.0\Clase03.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\bin\Debug\net5.0\Clase03.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\bin\Debug\net5.0\Clase03.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\obj\Debug\net5.0\Clase03.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\obj\Debug\net5.0\Clase03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\obj\Debug\net5.0\Clase03.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\obj\Debug\net5.0\Clase03.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\obj\Debug\net5.0\Clase03.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\obj\Debug\net5.0\Clase03.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\obj\Debug\net5.0\refint\Clase03.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\obj\Debug\net5.0\Clase03.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\obj\Debug\net5.0\Clase03.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Clase03\Clase03\obj\Debug\net5.0\ref\Clase03.dll
