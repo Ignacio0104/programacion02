@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "BibliotecaDeClases/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/BibliotecaDeClases.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BibliotecaDeClases.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "BibliotecaDeClases/1.0.0": {
-      "type": "project",
-      "path": "../BibliotecaDeClases/BibliotecaDeClases.csproj",
-      "msbuildProject": "../BibliotecaDeClases/BibliotecaDeClases.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "BibliotecaDeClases >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\Nacho\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EjercicioI03-Unidad03\\EjercicioI03-Unidad03\\EjercicioI03-Unidad03.csproj",
-      "projectName": "EjercicioI03-Unidad03",
-      "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EjercicioI03-Unidad03\\EjercicioI03-Unidad03\\EjercicioI03-Unidad03.csproj",
+      "projectUniqueName": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EjercicioI03-Unidad03\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+      "projectName": "BibliotecaDeClases",
+      "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EjercicioI03-Unidad03\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
       "packagesPath": "C:\\Users\\Nacho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EjercicioI03-Unidad03\\EjercicioI03-Unidad03\\obj\\",
+      "outputPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EjercicioI03-Unidad03\\BibliotecaDeClases\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,11 +38,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EjercicioI03-Unidad03\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
-              "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EjercicioI03-Unidad03\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

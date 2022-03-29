@@ -6,4 +6,8 @@
     <RootNamespace>EjercicioI03_Unidad03</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BibliotecaDeClases\BibliotecaDeClases.csproj" />
+  </ItemGroup>
+
 </Project>
