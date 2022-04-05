@@ -28,11 +28,25 @@ namespace Geometria
 
         public float GetPerimetro()
         {
-            this.perimetro = (Math.Abs(vertice2.GetX() - vertice1.GetX()) + Math.Abs(vertice2.GetY() - vertice3.GetY()))/2;
-
+            if (this.perimetro != 0)
+            {
+                this.perimetro = (Math.Abs(vertice2.GetX() - vertice1.GetX()) + Math.Abs(vertice2.GetY() - vertice3.GetY())) / 2;
+            }
+            
             return this.perimetro;
         }
 
-        
+        public float GetArea()
+        {
+            if (this.area != 0)
+            {
+                this.area = Math.Abs(vertice2.GetX() - vertice1.GetX()) * Math.Abs(vertice2.GetY() - vertice3.GetY());
+            }
+
+            return this.area;
+        }
+
+
+
     }
 }
