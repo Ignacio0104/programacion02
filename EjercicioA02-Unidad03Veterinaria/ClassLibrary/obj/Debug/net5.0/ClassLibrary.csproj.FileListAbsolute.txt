@@ -1,0 +1,12 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioA02-Unidad03Veterinaria\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioA02-Unidad03Veterinaria\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioA02-Unidad03Veterinaria\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioA02-Unidad03Veterinaria\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioA02-Unidad03Veterinaria\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioA02-Unidad03Veterinaria\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioA02-Unidad03Veterinaria\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioA02-Unidad03Veterinaria\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioA02-Unidad03Veterinaria\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioA02-Unidad03Veterinaria\ClassLibrary\obj\Debug\net5.0\refint\ClassLibrary.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioA02-Unidad03Veterinaria\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioA02-Unidad03Veterinaria\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll

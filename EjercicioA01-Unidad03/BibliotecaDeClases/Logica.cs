@@ -49,9 +49,6 @@ namespace BibliotecaDeClases
             return maximo;
 
         }
-        public int Hola()
-        {
-            return 2;
-        }
+   
     }
 }
