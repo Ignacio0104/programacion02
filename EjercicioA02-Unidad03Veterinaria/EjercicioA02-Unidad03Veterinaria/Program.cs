@@ -33,10 +33,6 @@ namespace EjercicioA02_Unidad03Veterinaria
                 Console.WriteLine(clientes[i].Mostrar());
             }
 
-
-
-
-
         }
     }
 }
