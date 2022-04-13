@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioC01-Unidad06EstadisticaDeportiva", "EjercicioC01-Unidad06EstadisticaDeportiva\EjercicioC01-Unidad06EstadisticaDeportiva.csproj", "{69A04BEA-CBFF-4523-B2E7-730B78378FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{6CDEF88E-CA94-4607-B6C9-889EAC6D3DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A04BEA-CBFF-4523-B2E7-730B78378FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A04BEA-CBFF-4523-B2E7-730B78378FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A04BEA-CBFF-4523-B2E7-730B78378FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A04BEA-CBFF-4523-B2E7-730B78378FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDEF88E-CA94-4607-B6C9-889EAC6D3DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDEF88E-CA94-4607-B6C9-889EAC6D3DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDEF88E-CA94-4607-B6C9-889EAC6D3DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDEF88E-CA94-4607-B6C9-889EAC6D3DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7C34429-5854-4ED9-9287-BAC8A91B695B}
+	EndGlobalSection
+EndGlobal

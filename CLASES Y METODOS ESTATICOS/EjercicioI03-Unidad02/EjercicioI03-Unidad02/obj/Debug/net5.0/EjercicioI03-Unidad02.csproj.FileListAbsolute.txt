@@ -14,3 +14,19 @@ C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioI03-Unidad02\Ej
 C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\EjercicioI03-Unidad02.pdb
 C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\EjercicioI03-Unidad02.genruntimeconfig.cache
 C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\ref\EjercicioI03-Unidad02.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\bin\Debug\net5.0\EjercicioI03-Unidad02.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\bin\Debug\net5.0\EjercicioI03-Unidad02.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\bin\Debug\net5.0\EjercicioI03-Unidad02.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\bin\Debug\net5.0\EjercicioI03-Unidad02.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\bin\Debug\net5.0\EjercicioI03-Unidad02.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\bin\Debug\net5.0\EjercicioI03-Unidad02.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\EjercicioI03-Unidad02.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\EjercicioI03-Unidad02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\EjercicioI03-Unidad02.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\EjercicioI03-Unidad02.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\EjercicioI03-Unidad02.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\EjercicioI03-Unidad02.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\refint\EjercicioI03-Unidad02.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\EjercicioI03-Unidad02.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\EjercicioI03-Unidad02.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASES Y METODOS ESTATICOS\EjercicioI03-Unidad02\EjercicioI03-Unidad02\obj\Debug\net5.0\ref\EjercicioI03-Unidad02.dll

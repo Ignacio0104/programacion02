@@ -7,6 +7,7 @@ namespace EjercicioI03_Unidad02
         static void Main(string[] args)
         {
             Console.WriteLine(Conversor.ConvertirBinarioADecimal(1011011011));
+            Console.WriteLine(Conversor.EsBinario("101121101"));
         }
     }
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EjercicioI03-Unidad02\\EjercicioI03-Unidad02\\EjercicioI03-Unidad02.csproj",
+      "projectUniqueName": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\CLASES Y METODOS ESTATICOS\\EjercicioI03-Unidad02\\EjercicioI03-Unidad02\\EjercicioI03-Unidad02.csproj",
       "projectName": "EjercicioI03-Unidad02",
-      "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EjercicioI03-Unidad02\\EjercicioI03-Unidad02\\EjercicioI03-Unidad02.csproj",
+      "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\CLASES Y METODOS ESTATICOS\\EjercicioI03-Unidad02\\EjercicioI03-Unidad02\\EjercicioI03-Unidad02.csproj",
       "packagesPath": "C:\\Users\\Nacho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EjercicioI03-Unidad02\\EjercicioI03-Unidad02\\obj\\",
+      "outputPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\CLASES Y METODOS ESTATICOS\\EjercicioI03-Unidad02\\EjercicioI03-Unidad02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

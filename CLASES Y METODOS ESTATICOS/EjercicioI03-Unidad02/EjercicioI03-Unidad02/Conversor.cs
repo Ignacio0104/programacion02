@@ -38,5 +38,18 @@ namespace EjercicioI03_Unidad02
 
             return result;
         }
+
+        public static bool EsBinario(string binario)
+        {
+            for (int i = 0; i < binario.Length; i++)
+            {
+                if (binario[i] != '1' && binario[i] != '0')
+                {
+                    return false;
+                }
+            }
+
+            return true;
+        }
     }
 }

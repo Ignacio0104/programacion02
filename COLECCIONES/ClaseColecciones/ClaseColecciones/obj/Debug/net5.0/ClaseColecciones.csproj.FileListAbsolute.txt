@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\bin\Debug\net5.0\ClaseColecciones.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\bin\Debug\net5.0\ClaseColecciones.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\bin\Debug\net5.0\ClaseColecciones.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\bin\Debug\net5.0\ClaseColecciones.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\bin\Debug\net5.0\ClaseColecciones.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\bin\Debug\net5.0\ClaseColecciones.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\obj\Debug\net5.0\ClaseColecciones.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\obj\Debug\net5.0\ClaseColecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\obj\Debug\net5.0\ClaseColecciones.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\obj\Debug\net5.0\ClaseColecciones.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\obj\Debug\net5.0\ClaseColecciones.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\obj\Debug\net5.0\ClaseColecciones.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\obj\Debug\net5.0\refint\ClaseColecciones.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\obj\Debug\net5.0\ClaseColecciones.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\obj\Debug\net5.0\ClaseColecciones.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\ClaseColecciones\ClaseColecciones\obj\Debug\net5.0\ref\ClaseColecciones.dll
