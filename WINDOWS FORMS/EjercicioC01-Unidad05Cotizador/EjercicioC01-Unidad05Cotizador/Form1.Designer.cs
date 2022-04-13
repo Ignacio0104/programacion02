@@ -314,6 +314,7 @@
             this.Controls.Add(this.txt_euro);
             this.Controls.Add(this.btn_candado);
             this.Controls.Add(this.lbl_Cotizacion);
+            this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(777, 338);
             this.MinimumSize = new System.Drawing.Size(777, 338);
             this.Name = "frm_conversor";
