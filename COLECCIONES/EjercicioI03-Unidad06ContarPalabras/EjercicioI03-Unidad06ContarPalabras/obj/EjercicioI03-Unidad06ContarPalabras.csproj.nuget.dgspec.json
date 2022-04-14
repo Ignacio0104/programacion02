@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioI02-Unidad06NumerosLocosII\\EjercicioI02-Unidad06NumerosLocosII\\EjercicioI02-Unidad06NumerosLocosII.csproj": {}
+    "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioI03-Unidad06ContarPalabras\\EjercicioI03-Unidad06ContarPalabras\\EjercicioI03-Unidad06ContarPalabras.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioI02-Unidad06NumerosLocosII\\EjercicioI02-Unidad06NumerosLocosII\\EjercicioI02-Unidad06NumerosLocosII.csproj": {
+    "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioI03-Unidad06ContarPalabras\\EjercicioI03-Unidad06ContarPalabras\\EjercicioI03-Unidad06ContarPalabras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioI02-Unidad06NumerosLocosII\\EjercicioI02-Unidad06NumerosLocosII\\EjercicioI02-Unidad06NumerosLocosII.csproj",
-        "projectName": "EjercicioI02-Unidad06NumerosLocosII",
-        "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioI02-Unidad06NumerosLocosII\\EjercicioI02-Unidad06NumerosLocosII\\EjercicioI02-Unidad06NumerosLocosII.csproj",
+        "projectUniqueName": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioI03-Unidad06ContarPalabras\\EjercicioI03-Unidad06ContarPalabras\\EjercicioI03-Unidad06ContarPalabras.csproj",
+        "projectName": "EjercicioI03-Unidad06ContarPalabras",
+        "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioI03-Unidad06ContarPalabras\\EjercicioI03-Unidad06ContarPalabras\\EjercicioI03-Unidad06ContarPalabras.csproj",
         "packagesPath": "C:\\Users\\Nacho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioI02-Unidad06NumerosLocosII\\EjercicioI02-Unidad06NumerosLocosII\\obj\\",
+        "outputPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioI03-Unidad06ContarPalabras\\EjercicioI03-Unidad06ContarPalabras\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net5.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
           "imports": [
             "net461",
             "net462",
@@ -62,6 +62,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kIzIyxJZWjFJ49CN2hzywWsxX1wcQc4pOV5e6lFT9a+CSrZhZ9zzmcEqvIyOmHiNFhH/yi5IgeuXIqiMxxw3ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioI03-Unidad06ContarPalabras\\EjercicioI03-Unidad06ContarPalabras\\EjercicioI03-Unidad06ContarPalabras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nacho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
