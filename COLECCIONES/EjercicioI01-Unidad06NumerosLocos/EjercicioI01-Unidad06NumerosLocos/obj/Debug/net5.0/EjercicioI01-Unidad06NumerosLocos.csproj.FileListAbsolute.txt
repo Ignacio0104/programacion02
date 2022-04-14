@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\bin\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\bin\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\bin\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\bin\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\bin\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\bin\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\obj\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\obj\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\obj\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\obj\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\obj\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\obj\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\obj\Debug\net5.0\refint\EjercicioI01-Unidad06NumerosLocos.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\obj\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\obj\Debug\net5.0\EjercicioI01-Unidad06NumerosLocos.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\COLECCIONES\EjercicioI01-Unidad06NumerosLocos\EjercicioI01-Unidad06NumerosLocos\obj\Debug\net5.0\ref\EjercicioI01-Unidad06NumerosLocos.dll
