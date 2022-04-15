@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioC01-Unidad06EstadisticaDeportiva\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioC02-Unidad06EnciendanMotores\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioC01-Unidad06EstadisticaDeportiva\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioC02-Unidad06EnciendanMotores\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\Nacho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioC01-Unidad06EstadisticaDeportiva\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\EjercicioC02-Unidad06EnciendanMotores\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
