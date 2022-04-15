@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L1UDGwP9mq6VD3+tjN+4J0ligb8knjl4c/5fxBpmbb3bNjNBnXo4ZxuT41ugPVblw93QdSnmucRRTkBH2fshvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\COLECCIONES\\Ejercicio01-Unidad07PuestoDeAtencion\\Ejercicio01-Unidad07PuestoDeAtencion\\Ejercicio01-Unidad07PuestoDeAtencion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nacho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
