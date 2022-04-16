@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2lcaoNcdNnYnR/TYlcT6QFyNnfhqZRnJkv8GP0KyBC0cfZCTpVcYs4QWP62iz1g81LDIBjqHt58Cn/JcG6hm0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\ENCAPSULAMIENTO\\EjercicioC01-Unidad06JugadoresEncapsulados\\EjercicioC01-Unidad06EstadisticaDeportiva\\EjercicioC01-Unidad06EstadisticaDeportiva.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nacho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
