@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseHerencia", "ClaseHerencia\ClaseHerencia.csproj", "{DBC1FBE1-8780-4990-86D2-50F52C321E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDeClases", "BibliotecaDeClases\BibliotecaDeClases.csproj", "{383CDE90-8A14-4F61-A1CF-17C3A3F11029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC1FBE1-8780-4990-86D2-50F52C321E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC1FBE1-8780-4990-86D2-50F52C321E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC1FBE1-8780-4990-86D2-50F52C321E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC1FBE1-8780-4990-86D2-50F52C321E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{383CDE90-8A14-4F61-A1CF-17C3A3F11029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383CDE90-8A14-4F61-A1CF-17C3A3F11029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383CDE90-8A14-4F61-A1CF-17C3A3F11029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383CDE90-8A14-4F61-A1CF-17C3A3F11029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D1D4EA9-5F82-4670-8AB6-38DD97C4B197}
+	EndGlobalSection
+EndGlobal

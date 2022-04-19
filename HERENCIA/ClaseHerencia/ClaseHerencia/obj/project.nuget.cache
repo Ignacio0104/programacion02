@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K2BOX/awbhNbFZc+1omF/nCZST+kwMg2t+eV1ZZUslN5sq+zRw7DoWhcmGclCoCXnRLd67hissXteondfIW/gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\HERENCIA\\ClaseHerencia\\ClaseHerencia\\ClaseHerencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nacho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
