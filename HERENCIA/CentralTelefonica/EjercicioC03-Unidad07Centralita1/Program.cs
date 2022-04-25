@@ -21,14 +21,19 @@ namespace EjercicioC03_Unidad07Centralita1
             // La centralita mostrará por pantalla todas las llamadas según las vaya registrando.
             c.Llamadas.Add(l1);
             Console.WriteLine(c.Mostrar());
+            Console.WriteLine("----------------------------");
             c.Llamadas.Add(l2);
             Console.WriteLine(c.Mostrar());
+            Console.WriteLine("----------------------------");
             c.Llamadas.Add(l3);
             Console.WriteLine(c.Mostrar());
+            Console.WriteLine("----------------------------");
             c.Llamadas.Add(l4);
             Console.WriteLine(c.Mostrar());
+            Console.WriteLine("----------------------------");
 
             c.OrdenarLlamadas();
+            Console.WriteLine("------Lista ordenada--------");
             Console.WriteLine(c.Mostrar());
 
             Console.ReadKey();

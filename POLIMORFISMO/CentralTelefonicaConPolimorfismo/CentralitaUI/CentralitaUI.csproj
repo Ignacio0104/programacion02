@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BibliotecaDeClases\Centralita.csproj" />
+    <ProjectReference Include="..\EjercicioC03-Unidad07Centralita1\EjercicioC03-Unidad07Centralita1.csproj" />
+  </ItemGroup>
+
+</Project>
