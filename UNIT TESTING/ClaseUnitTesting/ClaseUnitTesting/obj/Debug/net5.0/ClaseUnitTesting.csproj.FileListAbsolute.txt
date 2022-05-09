@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\bin\Debug\net5.0\ClaseUnitTesting.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\bin\Debug\net5.0\ClaseUnitTesting.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\bin\Debug\net5.0\ClaseUnitTesting.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\bin\Debug\net5.0\ClaseUnitTesting.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\bin\Debug\net5.0\ClaseUnitTesting.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\bin\Debug\net5.0\ClaseUnitTesting.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\obj\Debug\net5.0\ClaseUnitTesting.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\obj\Debug\net5.0\ClaseUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\obj\Debug\net5.0\ClaseUnitTesting.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\obj\Debug\net5.0\ClaseUnitTesting.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\obj\Debug\net5.0\ClaseUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\obj\Debug\net5.0\ClaseUnitTesting.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\obj\Debug\net5.0\refint\ClaseUnitTesting.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\obj\Debug\net5.0\ClaseUnitTesting.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\obj\Debug\net5.0\ClaseUnitTesting.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\ClaseUnitTesting\ClaseUnitTesting\obj\Debug\net5.0\ref\ClaseUnitTesting.dll
