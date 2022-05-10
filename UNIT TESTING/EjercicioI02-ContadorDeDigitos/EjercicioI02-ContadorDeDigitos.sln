@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioI02-ContadorDeDigitos", "EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos.csproj", "{FF6EC7D2-0A41-40AF-A43E-87E823EC49BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{64CC5B4F-FF55-43BF-B374-CEA12CF7F1BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF6EC7D2-0A41-40AF-A43E-87E823EC49BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6EC7D2-0A41-40AF-A43E-87E823EC49BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6EC7D2-0A41-40AF-A43E-87E823EC49BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6EC7D2-0A41-40AF-A43E-87E823EC49BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CC5B4F-FF55-43BF-B374-CEA12CF7F1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CC5B4F-FF55-43BF-B374-CEA12CF7F1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CC5B4F-FF55-43BF-B374-CEA12CF7F1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CC5B4F-FF55-43BF-B374-CEA12CF7F1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12D2ECFB-D053-4C9B-9E95-0373AD2F04A1}
+	EndGlobalSection
+EndGlobal

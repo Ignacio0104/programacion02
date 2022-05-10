@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\bin\Debug\net5.0\EjercicioI02-ContadorDeDigitos.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\bin\Debug\net5.0\EjercicioI02-ContadorDeDigitos.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\bin\Debug\net5.0\EjercicioI02-ContadorDeDigitos.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\bin\Debug\net5.0\EjercicioI02-ContadorDeDigitos.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\bin\Debug\net5.0\EjercicioI02-ContadorDeDigitos.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\bin\Debug\net5.0\EjercicioI02-ContadorDeDigitos.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\obj\Debug\net5.0\EjercicioI02-ContadorDeDigitos.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\obj\Debug\net5.0\EjercicioI02-ContadorDeDigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\obj\Debug\net5.0\EjercicioI02-ContadorDeDigitos.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\obj\Debug\net5.0\EjercicioI02-ContadorDeDigitos.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\obj\Debug\net5.0\EjercicioI02-ContadorDeDigitos.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\obj\Debug\net5.0\EjercicioI02-ContadorDeDigitos.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\obj\Debug\net5.0\refint\EjercicioI02-ContadorDeDigitos.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\obj\Debug\net5.0\EjercicioI02-ContadorDeDigitos.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\obj\Debug\net5.0\EjercicioI02-ContadorDeDigitos.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioI02-ContadorDeDigitos\EjercicioI02-ContadorDeDigitos\obj\Debug\net5.0\ref\EjercicioI02-ContadorDeDigitos.dll

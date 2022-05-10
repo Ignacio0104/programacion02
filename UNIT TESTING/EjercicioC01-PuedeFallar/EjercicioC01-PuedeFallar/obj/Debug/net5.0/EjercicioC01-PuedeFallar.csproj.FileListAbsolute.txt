@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\bin\Debug\net5.0\EjercicioC01-PuedeFallar.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\bin\Debug\net5.0\EjercicioC01-PuedeFallar.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\bin\Debug\net5.0\EjercicioC01-PuedeFallar.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\bin\Debug\net5.0\EjercicioC01-PuedeFallar.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\bin\Debug\net5.0\EjercicioC01-PuedeFallar.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\bin\Debug\net5.0\EjercicioC01-PuedeFallar.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\obj\Debug\net5.0\EjercicioC01-PuedeFallar.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\obj\Debug\net5.0\EjercicioC01-PuedeFallar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\obj\Debug\net5.0\EjercicioC01-PuedeFallar.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\obj\Debug\net5.0\EjercicioC01-PuedeFallar.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\obj\Debug\net5.0\EjercicioC01-PuedeFallar.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\obj\Debug\net5.0\EjercicioC01-PuedeFallar.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\obj\Debug\net5.0\refint\EjercicioC01-PuedeFallar.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\obj\Debug\net5.0\EjercicioC01-PuedeFallar.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\obj\Debug\net5.0\EjercicioC01-PuedeFallar.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\UNIT TESTING\EjercicioC01-PuedeFallar\EjercicioC01-PuedeFallar\obj\Debug\net5.0\ref\EjercicioC01-PuedeFallar.dll
