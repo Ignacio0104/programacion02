@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Centralita/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Centralita.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Centralita.dll": {}
+        }
+      },
+      "EjercicioC03-Unidad07Centralita1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Centralita": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EjercicioC03-Unidad07Centralita1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EjercicioC03-Unidad07Centralita1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Centralita/1.0.0": {
+      "type": "project",
+      "path": "../BibliotecaDeClases/Centralita.csproj",
+      "msbuildProject": "../BibliotecaDeClases/Centralita.csproj"
+    },
+    "EjercicioC03-Unidad07Centralita1/1.0.0": {
+      "type": "project",
+      "path": "../EjercicioC03-Unidad07Centralita1/EjercicioC03-Unidad07Centralita1.csproj",
+      "msbuildProject": "../EjercicioC03-Unidad07Centralita1/EjercicioC03-Unidad07Centralita1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Centralita >= 1.0.0",
+      "EjercicioC03-Unidad07Centralita1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Nacho\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EXCEPCIONES\\CentralTelefonicaConExcepciones\\CentralitaUI\\CentralitaUI.csproj",
+      "projectName": "CentralitaUI",
+      "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EXCEPCIONES\\CentralTelefonicaConExcepciones\\CentralitaUI\\CentralitaUI.csproj",
+      "packagesPath": "C:\\Users\\Nacho\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EXCEPCIONES\\CentralTelefonicaConExcepciones\\CentralitaUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Nacho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EXCEPCIONES\\CentralTelefonicaConExcepciones\\BibliotecaDeClases\\Centralita.csproj": {
+              "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EXCEPCIONES\\CentralTelefonicaConExcepciones\\BibliotecaDeClases\\Centralita.csproj"
+            },
+            "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EXCEPCIONES\\CentralTelefonicaConExcepciones\\EjercicioC03-Unidad07Centralita1\\EjercicioC03-Unidad07Centralita1.csproj": {
+              "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\EXCEPCIONES\\CentralTelefonicaConExcepciones\\EjercicioC03-Unidad07Centralita1\\EjercicioC03-Unidad07Centralita1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

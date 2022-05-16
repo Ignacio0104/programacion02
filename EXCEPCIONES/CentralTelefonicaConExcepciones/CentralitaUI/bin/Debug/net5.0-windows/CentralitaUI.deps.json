@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CentralitaUI/1.0.0": {
+        "dependencies": {
+          "Centralita": "1.0.0",
+          "EjercicioC03-Unidad07Centralita1": "1.0.0"
+        },
+        "runtime": {
+          "CentralitaUI.dll": {}
+        }
+      },
+      "Centralita/1.0.0": {
+        "runtime": {
+          "Centralita.dll": {}
+        }
+      },
+      "EjercicioC03-Unidad07Centralita1/1.0.0": {
+        "dependencies": {
+          "Centralita": "1.0.0"
+        },
+        "runtime": {
+          "EjercicioC03-Unidad07Centralita1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CentralitaUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Centralita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EjercicioC03-Unidad07Centralita1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "dQWuZOAEdcZbgxix9MpqNB14i3rsLwPOKHrmaRbRvXpg78gA2yIk/9cBmY5ilWetNcEvO4+2YK6ZVJ02+aBKQA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\ClasesSabados\\EjercicioBibliotecaUniversidad\\Pruebas\\Pruebas.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto EjercicioBibliotecaUniversidad no es compatible con net5.0 (.NETCoreApp,Version=v5.0). El proyecto EjercicioBibliotecaUniversidad admite: net5.0-windows7.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "EjercicioBibliotecaUniversidad",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

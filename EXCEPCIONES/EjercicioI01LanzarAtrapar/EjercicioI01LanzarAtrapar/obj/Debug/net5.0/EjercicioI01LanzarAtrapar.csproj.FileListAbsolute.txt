@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\bin\Debug\net5.0\EjercicioI01LanzarAtrapar.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\bin\Debug\net5.0\EjercicioI01LanzarAtrapar.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\bin\Debug\net5.0\EjercicioI01LanzarAtrapar.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\bin\Debug\net5.0\EjercicioI01LanzarAtrapar.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\bin\Debug\net5.0\EjercicioI01LanzarAtrapar.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\bin\Debug\net5.0\EjercicioI01LanzarAtrapar.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\obj\Debug\net5.0\EjercicioI01LanzarAtrapar.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\obj\Debug\net5.0\EjercicioI01LanzarAtrapar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\obj\Debug\net5.0\EjercicioI01LanzarAtrapar.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\obj\Debug\net5.0\EjercicioI01LanzarAtrapar.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\obj\Debug\net5.0\EjercicioI01LanzarAtrapar.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\obj\Debug\net5.0\EjercicioI01LanzarAtrapar.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\obj\Debug\net5.0\refint\EjercicioI01LanzarAtrapar.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\obj\Debug\net5.0\EjercicioI01LanzarAtrapar.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\obj\Debug\net5.0\EjercicioI01LanzarAtrapar.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI01LanzarAtrapar\EjercicioI01LanzarAtrapar\obj\Debug\net5.0\ref\EjercicioI01LanzarAtrapar.dll

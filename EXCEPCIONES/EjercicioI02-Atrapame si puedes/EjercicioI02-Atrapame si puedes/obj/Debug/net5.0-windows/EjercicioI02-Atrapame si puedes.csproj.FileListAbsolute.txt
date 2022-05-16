@@ -1,0 +1,18 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\bin\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\bin\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\bin\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\bin\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\bin\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\bin\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\obj\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\obj\Debug\net5.0-windows\EjercicioI02_Atrapame_si_puedes.Form1.resources
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\obj\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.csproj.GenerateResource.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\obj\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\obj\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\obj\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\obj\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\obj\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\obj\Debug\net5.0-windows\refint\EjercicioI02-Atrapame si puedes.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\obj\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\obj\Debug\net5.0-windows\EjercicioI02-Atrapame si puedes.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\EXCEPCIONES\EjercicioI02-Atrapame si puedes\EjercicioI02-Atrapame si puedes\obj\Debug\net5.0-windows\ref\EjercicioI02-Atrapame si puedes.dll

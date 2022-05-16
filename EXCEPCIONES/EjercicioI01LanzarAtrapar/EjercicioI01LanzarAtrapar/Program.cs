@@ -6,7 +6,17 @@ namespace EjercicioI01LanzarAtrapar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            OtraClase pruebaClase = new OtraClase();
+
+            try
+            {
+                pruebaClase.InstanciarMiClase();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message, ex.InnerException);
+            }
+           
         }
     }
 }
