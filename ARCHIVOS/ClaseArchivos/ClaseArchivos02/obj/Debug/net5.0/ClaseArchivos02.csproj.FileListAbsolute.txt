@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\obj\Debug\net5.0\ClaseArchivos02.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\obj\Debug\net5.0\ClaseArchivos02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\obj\Debug\net5.0\ClaseArchivos02.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\obj\Debug\net5.0\ClaseArchivos02.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\obj\Debug\net5.0\ClaseArchivos02.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\bin\Debug\net5.0\ClaseArchivos02.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\bin\Debug\net5.0\ClaseArchivos02.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\bin\Debug\net5.0\ClaseArchivos02.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\bin\Debug\net5.0\ClaseArchivos02.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\bin\Debug\net5.0\ClaseArchivos02.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\bin\Debug\net5.0\ClaseArchivos02.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\obj\Debug\net5.0\ClaseArchivos02.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\obj\Debug\net5.0\refint\ClaseArchivos02.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\obj\Debug\net5.0\ClaseArchivos02.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\obj\Debug\net5.0\ClaseArchivos02.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos02\obj\Debug\net5.0\ref\ClaseArchivos02.dll

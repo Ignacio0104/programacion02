@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\bin\Debug\net5.0\SerializacionHerenciaXml.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\bin\Debug\net5.0\SerializacionHerenciaXml.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\bin\Debug\net5.0\SerializacionHerenciaXml.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\bin\Debug\net5.0\SerializacionHerenciaXml.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\bin\Debug\net5.0\SerializacionHerenciaXml.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\bin\Debug\net5.0\SerializacionHerenciaXml.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\obj\Debug\net5.0\SerializacionHerenciaXml.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\obj\Debug\net5.0\SerializacionHerenciaXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\obj\Debug\net5.0\SerializacionHerenciaXml.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\obj\Debug\net5.0\SerializacionHerenciaXml.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\obj\Debug\net5.0\SerializacionHerenciaXml.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\obj\Debug\net5.0\SerializacionHerenciaXml.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\obj\Debug\net5.0\refint\SerializacionHerenciaXml.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\obj\Debug\net5.0\SerializacionHerenciaXml.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\obj\Debug\net5.0\SerializacionHerenciaXml.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\SerializacionHerenciaXml\obj\Debug\net5.0\ref\SerializacionHerenciaXml.dll

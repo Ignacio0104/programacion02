@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\bin\Debug\net5.0\ClaseArchivos.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\bin\Debug\net5.0\ClaseArchivos.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\bin\Debug\net5.0\ClaseArchivos.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\bin\Debug\net5.0\ClaseArchivos.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\bin\Debug\net5.0\ClaseArchivos.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\bin\Debug\net5.0\ClaseArchivos.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\obj\Debug\net5.0\ClaseArchivos.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\obj\Debug\net5.0\ClaseArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\obj\Debug\net5.0\ClaseArchivos.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\obj\Debug\net5.0\ClaseArchivos.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\obj\Debug\net5.0\ClaseArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\obj\Debug\net5.0\ClaseArchivos.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\obj\Debug\net5.0\refint\ClaseArchivos.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\obj\Debug\net5.0\ClaseArchivos.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\obj\Debug\net5.0\ClaseArchivos.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\ClaseArchivos\obj\Debug\net5.0\ref\ClaseArchivos.dll

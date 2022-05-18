@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\bin\Debug\net5.0\Serializacion01.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\bin\Debug\net5.0\Serializacion01.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\bin\Debug\net5.0\Serializacion01.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\bin\Debug\net5.0\Serializacion01.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\bin\Debug\net5.0\Serializacion01.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\bin\Debug\net5.0\Serializacion01.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\obj\Debug\net5.0\Serializacion01.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\obj\Debug\net5.0\Serializacion01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\obj\Debug\net5.0\Serializacion01.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\obj\Debug\net5.0\Serializacion01.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\obj\Debug\net5.0\Serializacion01.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\obj\Debug\net5.0\Serializacion01.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\obj\Debug\net5.0\refint\Serializacion01.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\obj\Debug\net5.0\Serializacion01.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\obj\Debug\net5.0\Serializacion01.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\ARCHIVOS\ClaseArchivos\Serializacion01\obj\Debug\net5.0\ref\Serializacion01.dll
