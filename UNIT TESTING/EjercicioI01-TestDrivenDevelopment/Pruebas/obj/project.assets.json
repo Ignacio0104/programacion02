@@ -6141,6 +6141,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "EjercicioI01-TestDrivenDevelopment >= 1.0.0",
+      "Excepciones >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.3",
       "MSTest.TestFramework >= 2.2.3",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
@@ -6181,6 +6182,9 @@
           "projectReferences": {
             "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\UNIT TESTING\\EjercicioI01-TestDrivenDevelopment\\EjercicioI01-TestDrivenDevelopment\\EjercicioI01-TestDrivenDevelopment.csproj": {
               "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\UNIT TESTING\\EjercicioI01-TestDrivenDevelopment\\EjercicioI01-TestDrivenDevelopment\\EjercicioI01-TestDrivenDevelopment.csproj"
+            },
+            "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\UNIT TESTING\\EjercicioI01-TestDrivenDevelopment\\Excepciones\\Excepciones.csproj": {
+              "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\UNIT TESTING\\EjercicioI01-TestDrivenDevelopment\\Excepciones\\Excepciones.csproj"
             }
           }
         }
@@ -6227,7 +6231,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

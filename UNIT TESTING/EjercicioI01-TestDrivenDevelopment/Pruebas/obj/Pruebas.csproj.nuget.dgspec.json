@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -120,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -154,6 +154,9 @@
             "projectReferences": {
               "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\UNIT TESTING\\EjercicioI01-TestDrivenDevelopment\\EjercicioI01-TestDrivenDevelopment\\EjercicioI01-TestDrivenDevelopment.csproj": {
                 "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\UNIT TESTING\\EjercicioI01-TestDrivenDevelopment\\EjercicioI01-TestDrivenDevelopment\\EjercicioI01-TestDrivenDevelopment.csproj"
+              },
+              "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\UNIT TESTING\\EjercicioI01-TestDrivenDevelopment\\Excepciones\\Excepciones.csproj": {
+                "projectPath": "C:\\Users\\Nacho\\Desktop\\Programacion\\UTN\\ProgramacionDos\\UNIT TESTING\\EjercicioI01-TestDrivenDevelopment\\Excepciones\\Excepciones.csproj"
               }
             }
           }
@@ -200,7 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

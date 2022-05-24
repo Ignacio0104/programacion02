@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\EjercicioI01-TestDrivenDevelopment\EjercicioI01-TestDrivenDevelopment.csproj" />
+    <ProjectReference Include="..\Excepciones\Excepciones.csproj" />
   </ItemGroup>
 
 </Project>

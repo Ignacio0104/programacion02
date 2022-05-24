@@ -27,8 +27,8 @@ namespace EjercicioI01_TestDrivenDevelopment
             
             if(numerosArray.Length>0 && numerosArray is not null)
             {
-                try
-                {
+               // try
+                //{
                     for (int i = 0; i < numerosArray.Length; i++)
                     {
                         int.TryParse(numerosArray[i], out numeroAux);
@@ -40,11 +40,11 @@ namespace EjercicioI01_TestDrivenDevelopment
                     }
 
                     return acumulador;
-                }
-                catch(NegativoNoPermitidoException e)
-                {
-                    Console.WriteLine(e.Message);
-                }
+               // }
+                //catch(NegativoNoPermitidoException e)
+                //{
+                    //Console.WriteLine(e.Message);
+                //}
      
             }
             return 0;

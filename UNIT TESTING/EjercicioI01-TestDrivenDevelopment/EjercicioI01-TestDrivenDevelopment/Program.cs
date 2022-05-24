@@ -6,7 +6,7 @@ namespace EjercicioI01_TestDrivenDevelopment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Calculadora.Add("//; \n1; -2"));
+            Console.WriteLine(Calculadora.Add("//; \n1;-2"));
 
         }
     }

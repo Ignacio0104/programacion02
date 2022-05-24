@@ -1,5 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using EjercicioI01_TestDrivenDevelopment;
+using Excepciones;
 
 namespace Pruebas
 {
@@ -37,6 +38,27 @@ namespace Pruebas
             int actual = Calculadora.Add(cadena);
 
             Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void Add_CuandoSeIngresanOtroSeparadores_DeberaDevolverElResultadoDeLosNumeros()
+        {
+            int expected = 3;
+            string cadena = "//; \n1; 2";
+
+            int actual = Calculadora.Add(cadena);
+
+            Assert.AreEqual(expected, actual);
+        }
+
+
+        [TestMethod]
+        [ExpectedException(typeof(NegativoNoPermitidoException))]
+        public void Add_CuandoRecibeNumerosNegativos_DeberiaLanzarExcepcion()
+        {
+            string cadena = "//; \n1;-2";
+
+            int actual = Calculadora.Add(cadena);
         }
     }
 }
