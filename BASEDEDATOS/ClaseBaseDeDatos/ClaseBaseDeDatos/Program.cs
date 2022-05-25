@@ -33,9 +33,9 @@ namespace ClaseBaseDeDatos
 
             try
             {
-                PersonaAccesoDatos.Guardar(new Persona("Nacho", 24));
-                PersonaAccesoDatos.Eliminar(2);
-                PersonaAccesoDatos.Modificar("Ignacio", 8);
+                //PersonaAccesoDatos.Guardar(new Persona("Nacho", 24));
+                PersonaAccesoDatos.Eliminar(3);
+                PersonaAccesoDatos.Modificar("Ignacio",12);
             }
             catch (Exception e)
             {

@@ -54,8 +54,10 @@ namespace ClaseBaseDeDatos
             Persona persona = null;
             try
             {
+                command.Parameters.Clear();
                 connection.Open();
-                command.CommandText = $"SELECT * FROM EMPLEADOS WHERE ID_EMPLEADO={id}";
+                command.CommandText = $"SELECT * FROM EMPLEADOS WHERE ID_EMPLEADO=@ID";
+                command.Parameters.AddWithValue("@ID", id);
                 using (SqlDataReader dataReader = command.ExecuteReader())
                 {
                     while (dataReader.Read())
@@ -100,8 +102,11 @@ namespace ClaseBaseDeDatos
         {
             try
             {
+                command.Parameters.Clear();
                 connection.Open();
-                command.CommandText = $"UPDATE EMPLEADOS SET NOMBRE  = '{nuevoNombre}' WHERE ID_EMPLEADO ={id}";
+                command.CommandText = $"UPDATE EMPLEADOS SET NOMBRE  = @nombre WHERE ID_EMPLEADO =@ID";
+                command.Parameters.AddWithValue("@nombre", nuevoNombre);
+                command.Parameters.AddWithValue("@ID", id);
                 command.ExecuteNonQuery();
 
             }
@@ -119,8 +124,10 @@ namespace ClaseBaseDeDatos
         {
             try
             {
+                command.Parameters.Clear();
                 connection.Open();
-                command.CommandText = $"DELETE FROM EMPLEADOS WHERE ID_EMPLEADO = {id}";
+                command.CommandText = $"DELETE FROM EMPLEADOS WHERE ID_EMPLEADO = @ID";
+                command.Parameters.AddWithValue("@ID", id);
                 command.ExecuteNonQuery();
 
             }
