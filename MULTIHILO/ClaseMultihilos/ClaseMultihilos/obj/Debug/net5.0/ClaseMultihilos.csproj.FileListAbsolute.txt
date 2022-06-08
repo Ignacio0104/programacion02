@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\bin\Debug\net5.0\ClaseMultihilos.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\bin\Debug\net5.0\ClaseMultihilos.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\bin\Debug\net5.0\ClaseMultihilos.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\bin\Debug\net5.0\ClaseMultihilos.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\bin\Debug\net5.0\ClaseMultihilos.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\bin\Debug\net5.0\ClaseMultihilos.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\obj\Debug\net5.0\ClaseMultihilos.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\obj\Debug\net5.0\ClaseMultihilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\obj\Debug\net5.0\ClaseMultihilos.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\obj\Debug\net5.0\ClaseMultihilos.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\obj\Debug\net5.0\ClaseMultihilos.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\obj\Debug\net5.0\ClaseMultihilos.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\obj\Debug\net5.0\refint\ClaseMultihilos.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\obj\Debug\net5.0\ClaseMultihilos.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\obj\Debug\net5.0\ClaseMultihilos.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\MULTIHILO\ClaseMultihilos\ClaseMultihilos\obj\Debug\net5.0\ref\ClaseMultihilos.dll

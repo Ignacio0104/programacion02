@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioI01-El relojero", "EjercicioI01-El relojero\EjercicioI01-El relojero.csproj", "{C7FC323C-583B-4990-A1DC-307606DA23BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{55618207-8E9C-4449-BDDE-A10CBD125B9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FC323C-583B-4990-A1DC-307606DA23BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FC323C-583B-4990-A1DC-307606DA23BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FC323C-583B-4990-A1DC-307606DA23BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FC323C-583B-4990-A1DC-307606DA23BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55618207-8E9C-4449-BDDE-A10CBD125B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55618207-8E9C-4449-BDDE-A10CBD125B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55618207-8E9C-4449-BDDE-A10CBD125B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55618207-8E9C-4449-BDDE-A10CBD125B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C445681-84C8-444B-BF45-362E989EB6BC}
+	EndGlobalSection
+EndGlobal

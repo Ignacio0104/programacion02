@@ -1,0 +1,20 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\bin\Debug\net5.0-windows\EjercicioI01El delegado.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\bin\Debug\net5.0-windows\EjercicioI01El delegado.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\bin\Debug\net5.0-windows\EjercicioI01El delegado.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\bin\Debug\net5.0-windows\EjercicioI01El delegado.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\bin\Debug\net5.0-windows\EjercicioI01El delegado.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\bin\Debug\net5.0-windows\EjercicioI01El delegado.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\EjercicioI01El delegado.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\EjercicioI01El_delegado.FrmMostrar.resources
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\EjercicioI01El_delegado.FrmPrincipal.resources
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\EjercicioI01El_delegado.FrmTestDelegados.resources
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\EjercicioI01El delegado.csproj.GenerateResource.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\EjercicioI01El delegado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\EjercicioI01El delegado.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\EjercicioI01El delegado.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\EjercicioI01El delegado.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\EjercicioI01El delegado.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\refint\EjercicioI01El delegado.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\EjercicioI01El delegado.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\EjercicioI01El delegado.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\EjercicioI01El delegado\EjercicioI01El delegado\obj\Debug\net5.0-windows\ref\EjercicioI01El delegado.dll

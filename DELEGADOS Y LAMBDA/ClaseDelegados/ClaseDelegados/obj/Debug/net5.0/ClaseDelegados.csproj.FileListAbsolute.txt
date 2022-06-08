@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\bin\Debug\net5.0\ClaseDelegados.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\bin\Debug\net5.0\ClaseDelegados.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\bin\Debug\net5.0\ClaseDelegados.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\bin\Debug\net5.0\ClaseDelegados.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\bin\Debug\net5.0\ClaseDelegados.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\bin\Debug\net5.0\ClaseDelegados.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\obj\Debug\net5.0\ClaseDelegados.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\obj\Debug\net5.0\ClaseDelegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\obj\Debug\net5.0\ClaseDelegados.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\obj\Debug\net5.0\ClaseDelegados.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\obj\Debug\net5.0\ClaseDelegados.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\obj\Debug\net5.0\ClaseDelegados.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\obj\Debug\net5.0\refint\ClaseDelegados.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\obj\Debug\net5.0\ClaseDelegados.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\obj\Debug\net5.0\ClaseDelegados.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\DELEGADOS Y LAMBDA\ClaseDelegados\ClaseDelegados\obj\Debug\net5.0\ref\ClaseDelegados.dll

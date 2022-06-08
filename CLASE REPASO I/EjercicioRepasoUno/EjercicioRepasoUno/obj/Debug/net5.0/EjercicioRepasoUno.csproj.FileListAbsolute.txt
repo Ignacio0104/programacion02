@@ -1,0 +1,16 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\bin\Debug\net5.0\EjercicioRepasoUno.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\bin\Debug\net5.0\EjercicioRepasoUno.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\bin\Debug\net5.0\EjercicioRepasoUno.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\bin\Debug\net5.0\EjercicioRepasoUno.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\bin\Debug\net5.0\EjercicioRepasoUno.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\bin\Debug\net5.0\EjercicioRepasoUno.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\obj\Debug\net5.0\EjercicioRepasoUno.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\obj\Debug\net5.0\EjercicioRepasoUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\obj\Debug\net5.0\EjercicioRepasoUno.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\obj\Debug\net5.0\EjercicioRepasoUno.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\obj\Debug\net5.0\EjercicioRepasoUno.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\obj\Debug\net5.0\EjercicioRepasoUno.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\obj\Debug\net5.0\refint\EjercicioRepasoUno.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\obj\Debug\net5.0\EjercicioRepasoUno.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\obj\Debug\net5.0\EjercicioRepasoUno.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\CLASE REPASO I\EjercicioRepasoUno\EjercicioRepasoUno\obj\Debug\net5.0\ref\EjercicioRepasoUno.dll

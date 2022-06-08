@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BibliotecaDeClases;
 
 namespace Vista
 {
@@ -24,27 +25,48 @@ namespace Vista
 
         private void RefrescarBiblioteca()
         {
+            dtgvBiblioteca.DataSource = JuegoDao.Leer();
+            dtgvBiblioteca.Refresh();
+            dtgvBiblioteca.Update();
         }
 
 
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
+            Application.Exit();
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
+            if (dtgvBiblioteca.SelectedRows.Count > 0)
+            {
+                Biblioteca biblioteca = (Biblioteca)dtgvBiblioteca.CurrentRow.DataBoundItem;
 
+                JuegoDao.Eliminar(biblioteca.CodigoJuego);
+                RefrescarBiblioteca();
+            }
         }
 
         private void btnAlta_Click(object sender, EventArgs e)
         {
-
+            FrmAlta formAlta = new FrmAlta();
+            if(formAlta.ShowDialog() == DialogResult.OK)
+            {
+                RefrescarBiblioteca();
+            }
         }
 
         private void btnModificar_Click(object sender, EventArgs e)
         {
+            if (dtgvBiblioteca.SelectedRows.Count > 0)
+            {
+                Biblioteca biblioteca = (Biblioteca)dtgvBiblioteca.CurrentRow.DataBoundItem;
 
+                FrmAlta formAlta = new FrmAlta(biblioteca.CodigoJuego);
+                formAlta.ShowDialog();
+                RefrescarBiblioteca();
+            }
         }
 
     }

@@ -18,7 +18,7 @@ namespace BibliotecaDeClases
             cadenaConexion = @"Data Source=.;Initial Catalog=EJERCICIOS_UTN;Integrated Security=True";
             comando = new SqlCommand();
             conexion = new SqlConnection(cadenaConexion);
-            comando.CommandType = System.Data.CommandType.Text;
+            comando.CommandType = System.Data.CommandType.Text; //Siempre recibe strings
             comando.Connection = conexion;
         }
 
@@ -28,7 +28,7 @@ namespace BibliotecaDeClases
             try
             {
                 conexion.Open();
-                comando.CommandText = "SELECT * FROM USUARIOS";
+                comando.CommandText = "SELECT CODIGO_USUARIO,USERNAME FROM USUARIOS";
                 using (SqlDataReader dataReader = comando.ExecuteReader())
                 {
                     while (dataReader.Read())
