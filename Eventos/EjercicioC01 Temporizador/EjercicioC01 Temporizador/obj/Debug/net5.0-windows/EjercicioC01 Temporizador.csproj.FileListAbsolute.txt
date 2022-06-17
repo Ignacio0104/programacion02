@@ -1,0 +1,21 @@
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\bin\Debug\net5.0-windows\EjercicioC01 Temporizador.exe
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\bin\Debug\net5.0-windows\EjercicioC01 Temporizador.deps.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\bin\Debug\net5.0-windows\EjercicioC01 Temporizador.runtimeconfig.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\bin\Debug\net5.0-windows\EjercicioC01 Temporizador.runtimeconfig.dev.json
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\bin\Debug\net5.0-windows\EjercicioC01 Temporizador.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\bin\Debug\net5.0-windows\EjercicioC01 Temporizador.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\bin\Debug\net5.0-windows\BibliotecaDeClases.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\bin\Debug\net5.0-windows\BibliotecaDeClases.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\EjercicioC01 Temporizador.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\EjercicioC01_Temporizador.Form1.resources
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\EjercicioC01 Temporizador.csproj.GenerateResource.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\EjercicioC01 Temporizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\EjercicioC01 Temporizador.AssemblyInfoInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\EjercicioC01 Temporizador.AssemblyInfo.cs
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\EjercicioC01 Temporizador.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\EjercicioC01 Temporizador.csproj.CopyComplete
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\EjercicioC01 Temporizador.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\refint\EjercicioC01 Temporizador.dll
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\EjercicioC01 Temporizador.pdb
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\EjercicioC01 Temporizador.genruntimeconfig.cache
+C:\Users\Nacho\Desktop\Programacion\UTN\ProgramacionDos\Eventos\EjercicioC01 Temporizador\EjercicioC01 Temporizador\obj\Debug\net5.0-windows\ref\EjercicioC01 Temporizador.dll

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>EjercicioI02_SimuladorAtenciónClientes</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NameGenerator" Version="2.0.4" />
+    <PackageReference Include="NHibernate" Version="5.3.12" />
+  </ItemGroup>
+
+</Project>

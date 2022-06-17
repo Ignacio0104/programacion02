@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjercicioC01 Temporizador/1.0.0": {
+        "dependencies": {
+          "BibliotecaDeClases": "1.0.0"
+        },
+        "runtime": {
+          "EjercicioC01 Temporizador.dll": {}
+        }
+      },
+      "BibliotecaDeClases/1.0.0": {
+        "runtime": {
+          "BibliotecaDeClases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioC01 Temporizador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDeClases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
