@@ -1,0 +1,6 @@
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache

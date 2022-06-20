@@ -1,0 +1,45 @@
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\bin\Debug\Formularios.exe
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.FrmAtencion.resources
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.exe
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.FrmAgregarCliente.resources
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.FrmSimularAtencion.resources
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\bin\Debug\Entidades.dll
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\bin\Debug\Formularios.exe
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\bin\Debug\Entidades.dll
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmAgregarCliente.resources
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmAtencion.resources
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmSimularAtencion.resources
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\obj\Debug\Formularios.exe
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Esteban\Downloads\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\bin\Debug\Formularios.exe
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\bin\Debug\Entidades.dll
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\obj\Debug\Formularios.FrmAgregarCliente.resources
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\obj\Debug\Formularios.FrmAtencion.resources
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\obj\Debug\Formularios.FrmSimularAtencion.resources
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\obj\Debug\Formularios.exe
+C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - resuelto\Formularios\obj\Debug\Formularios.pdb
