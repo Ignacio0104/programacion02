@@ -16,6 +16,11 @@ namespace BibliotecaDeClases
         public string NombreGanador { get => nombreGanador; set => nombreGanador = value; }
         public string NombrePerdedor { get => nombrePerdedor; set => nombrePerdedor = value; }
 
+        public ResultadoCombate()
+        {
+
+        }
+
         public ResultadoCombate(string nombreGanador,string nombrePerdedor,DateTime fecha)
         {
             this.fechaCombate = fecha;

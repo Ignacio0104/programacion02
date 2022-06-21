@@ -45,8 +45,7 @@ namespace BibliotecaDeClases
                         {
                             personajeAux = new Hechicero(Convert.ToDecimal(dataReader["id"]), dataReader["nombre"].ToString(),
                               Convert.ToInt16(dataReader["nivel"]), dataReader["titulo"].ToString());
-                        }
-                        
+                        }                   
                     }
                 }
 
@@ -59,7 +58,7 @@ namespace BibliotecaDeClases
             }
             finally
             {
-                conexion.Close();
+                connection.Close();
             }
         }
     }

@@ -26,6 +26,7 @@ namespace BibliotecaDeClases
         public string Titulo { get => titulo;}
         public int PuntosDeVida { get => puntosDeVida;}
         public short Nivel { get => nivel; }
+        public int PuntosDeDefensa { get => puntosDeDefensa; }
 
         static Personaje()
         {
@@ -55,7 +56,7 @@ namespace BibliotecaDeClases
 
         public Personaje(decimal id, string nombre,short nivel) : this(id,nombre)
         {
-            if(nivel<nivelMaximo && nivel > nivelMinimo)
+            if(nivel<=nivelMaximo && nivel >= nivelMinimo)
             {
                 this.nivel = nivel;
             }
@@ -63,7 +64,9 @@ namespace BibliotecaDeClases
             {
                 throw new BusinessException("Nivel de poder inválido");
             }
-            
+            this.puntosDeDefensa = 100 * nivel;
+            this.puntosDePoder = 100 * nivel;
+            this.puntosDeVida = 500 * nivel;
         }
 
         public Personaje(decimal id, string nombre, short nivel,string titulo) : this(id, nombre, nivel)

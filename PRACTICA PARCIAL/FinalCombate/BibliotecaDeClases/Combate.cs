@@ -42,9 +42,9 @@ namespace BibliotecaDeClases
             IJugador resultadoAux;
             do
             {
+                atacante.RecibirAtaque(atacado.Atacar());
                 resultadoAux = EvaluarGanador();
-            }
-            while (resultadoAux is not null);
+            }while (resultadoAux is null);
 
             if (CombateFinalizado is not null)
             {
@@ -52,7 +52,7 @@ namespace BibliotecaDeClases
                 ResultadoCombate result = new ResultadoCombate(atacante.ToString(), atacado.ToString(), DateTime.Now);
                 try
                 {
-                    using (StreamWriter sw = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory))
+                    using (StreamWriter sw = new StreamWriter($"{AppDomain.CurrentDomain.BaseDirectory}prueba.xml"))
                     {
                         XmlSerializer xmlSerializer = new XmlSerializer(typeof(ResultadoCombate));
                         xmlSerializer.Serialize(sw, result);
@@ -96,7 +96,6 @@ namespace BibliotecaDeClases
             if(RondaIniciada is not null)
             {
                 RondaIniciada(atacante, atacado);
-                atacante.RecibirAtaque(atacado.Atacar());
             }
         }
 

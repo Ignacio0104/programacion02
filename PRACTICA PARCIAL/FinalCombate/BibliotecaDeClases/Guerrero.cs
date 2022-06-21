@@ -10,17 +10,21 @@ namespace BibliotecaDeClases
     {
         public Guerrero()
         {
+            AplicarBeneficiosDeClase();
         }
 
         public Guerrero(decimal id, string nombre) : base(id, nombre)
         {
+            AplicarBeneficiosDeClase();
         }
 
         public Guerrero(decimal id, string nombre, short nivel) : base(id, nombre, nivel)
         {
+            AplicarBeneficiosDeClase();
         }
         public Guerrero(decimal id, string nombre, short nivel,string titulo) : base(id, nombre, nivel, titulo)
         {
+            AplicarBeneficiosDeClase();
         }
 
         protected override void AplicarBeneficiosDeClase()

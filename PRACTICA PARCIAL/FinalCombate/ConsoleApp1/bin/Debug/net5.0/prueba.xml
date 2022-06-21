@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultadoCombate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FechaCombate>2022-06-20T18:35:31.3159861-03:00</FechaCombate>
+  <NombreGanador> NWBZPWNR,</NombreGanador>
+  <NombrePerdedor> Falcorn,Defender of the Alliance</NombrePerdedor>
+</ResultadoCombate>
